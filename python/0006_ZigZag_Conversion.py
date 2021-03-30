@@ -1,5 +1,6 @@
 """
 Question Link: https://leetcode.com/problems/zigzag-conversion/
+Difficulty: Medium
 Related Topics: String
 Solved by 11.04.2020 
 Runtime: 44(ms), Memory Usage: 14.2(MB)

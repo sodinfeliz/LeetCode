@@ -1,7 +1,10 @@
-# Related Topics: Array
-# Language: Python
-# Solved by 07.16.2020 
-# Runtime: 68(ms), Memory Usage: 13.7(MB)
+"""
+Question Link: https://leetcode.com/problems/rotate-image/
+Difficulty: Medium
+Related Topics: Array
+Solved by 07.16.2020 
+Runtime: 68(ms), Memory Usage: 13.7(MB)
+"""
 
 class Solution:
     def rotate(self, matrix):

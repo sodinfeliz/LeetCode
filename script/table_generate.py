@@ -8,13 +8,12 @@ def extract(path: Path):
     qlink = re.findall('^Question Link: (.*)', lines[0])[0]
     diff = re.findall('^Difficulty: (.*)', lines[1])[0]
 
-
     return num, title, qlink, diff
 
 
 def main():
     src_paths = list(Path('python/').glob('*.py'))[::-1]
-    with open('README_table.md', 'w') as f:
+    with open('./script/README_table.md', 'w') as f:
         f.write('| # | Title | Solution | Difficulty |\n')
         f.write('|---| ----- | -------- | ---------- |\n')
         

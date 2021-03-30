@@ -1,6 +1,4 @@
-# Solutions for LeetCode
- 
- | # | Title | Solution | Difficulty |
+| # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 | 0509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [Python](./python/0509_Fibonacci_Number.py) | Easy |
 | 0200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Python](./python/0200_Number_of_Islands.py) | Medium |

@@ -1,9 +1,9 @@
 """
-Question Link: https://leetcode.com/problems/zigzag-conversion/
-Difficulty: Medium
-Related Topics: String
-Solved by 11.04.2020 
-Runtime: 44(ms), Memory Usage: 14.2(MB)
+Question Link: https://leetcode.com/problems/palindrome-number/
+Difficulty: Easy
+Related Topics: Math
+Solved by 10.30.2020 
+Runtime: 64(ms), Memory Usage: 14.2(MB)
 """
 
 # converting to string method

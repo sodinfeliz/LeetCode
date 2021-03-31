@@ -10,5 +10,6 @@ else
 fi
 
 cat ./script/README_main.md ./script/README_table.md > README.md
+rm -f ./script/README_table.md
 exit 0
 

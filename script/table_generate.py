@@ -17,7 +17,7 @@ def main():
     src_paths.sort(reverse=True)
 
     with open('./script/README_table.md', 'w') as f:
-        f.write('| # | Title | Solution | Difficulty | Tags |\n')
+        f.write('\n| # | Title | Solution | Difficulty | Tags |\n')
         f.write('|---| ----- | -------- | ---------- | ---- |\n')
         
         for path in src_paths:

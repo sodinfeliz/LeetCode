@@ -1,7 +1,7 @@
 """
 Question Link: https://leetcode.com/problems/number-of-islands/
 Difficulty: Medium
-Related Topics: Depth-first Search, Breath-first Search, Union Find
+Related Topics: DFS, BFS, Union Find
 Solved by 08.07.2020 
 Runtime: 736(ms), Memory Usage: 18.6(MB)
 """

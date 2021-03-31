@@ -1,7 +1,7 @@
 """
 Question Link: https://leetcode.com/problems/jump-game/
 Difficulty: Medium
-Related Topics: Array, Greedy, Dynamic Programming
+Related Topics: Array, Greedy, DP
 Solved by 11.04.2020 
 Runtime: 76(ms), Memory Usage: 16(MB)
 """

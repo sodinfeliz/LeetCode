@@ -1,7 +1,7 @@
 """
 Question Link: https://leetcode.com/problems/maximum-subarray/
 Difficulty: Easy
-Related Topics: Array, Divide and Conquer, Dynamic Programming
+Related Topics: Array, Divide and Conquer, DP
 Solved by 11.02.2020 
 Runtime: 60(ms), Memory Usage: 14.8(MB)
 """

@@ -19,7 +19,7 @@
 | 0065 | [Valid Number](https://leetcode.com/problems/valid-number/) | [Python](./python/0065_Valid_Number.py) | Hard | Math, String |
 | 0058 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Python](./python/0058_Length_of_Last_Word.py) | Easy | String |
 | 0055 | [Jump Game](https://leetcode.com/problems/jump-game/) | [Python](./python/0055_Jump_Game.py) | Medium | Array, Greedy, DP |
-| 0053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Python](./python/0053_Maximum_Subarray.py) | Easy | Array, Divide and Conquer, DP |
+| 0053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Python](./python/0053_Maximum_Subarray.py) | Easy | Array, D&C, DP |
 | 0048 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [Python](./python/0048_Rotate_Image.py) | Medium | Array |
 | 0038 | [Count and Say](https://leetcode.com/problems/count-and-say/) | [Python](./python/0038_Count_and_Say.py) | Easy | String |
 | 0029 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | [Python](./python/0029_Divide_Two_Integers.py) | Medium | Math, Binary Search |

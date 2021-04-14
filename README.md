@@ -39,6 +39,7 @@
 | 0509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [Python](./python/0509_Fibonacci_Number.py) | Easy | Array |
 | 0485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Python](./python/0485_Max_Consecutive_Ones.py) | Easy | Array |
 | 0463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/) | [Python](./python/0463_Island_Perimeter.py) | Easy | Hash Table |
+| 0341 | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) | [Python](./python/0341_Flatten_Nested_List_Iterator.py) | Medium | Stack, Design |
 | 0310 | [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/) | [Python](./python/0310_Minimum_Height_Trees.py) | Medium | Graph, BFS |
 | 0283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Python](./python/0283_Move_Zeroes.py) | Easy | Array |
 | 0268 | [Missing Number](https://leetcode.com/problems/missing-number/) | [Python](./python/0268_Missing_Number.py) | Easy | Math |

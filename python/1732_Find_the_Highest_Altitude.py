@@ -2,7 +2,7 @@
 Question Link: https://leetcode.com/problems/find-the-highest-altitude/
 Difficulty: Easy
 Related Topics: Array
-Solved by 03.12.2020 
+Solved by 03.12.2021
 Runtime: 36(ms), Memory Usage: 14.3(MB)
 """
 

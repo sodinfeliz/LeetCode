@@ -14,7 +14,7 @@ def extract(path: Path):
 
 def main():
     src_paths = list(Path('python/').glob('*.py'))
-    src_paths.sort(reverse=True)
+    src_paths.sort(reverse=False)
 
     with open('./script/README_table.md', 'w') as f:
         f.write('\n| # | Title | Solution | Difficulty | Tags |\n')

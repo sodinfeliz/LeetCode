@@ -21,6 +21,9 @@
 | 0058 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Python](./python/0058_Length_of_Last_Word.py) | Easy | String |
 | 0065 | [Valid Number](https://leetcode.com/problems/valid-number/) | [Python](./python/0065_Valid_Number.py) | Hard | Math, String |
 | 0066 | [Plus One](https://leetcode.com/problems/plus-one/) | [Python](./python/0066_Plus_One.py) | Easy | Array |
+| 0067 | [Add Binary](https://leetcode.com/problems/add-binary/) | [Python](./python/0067_Add_Binary.py) | Easy | Math, String, Bit Manipulation |
+| 0069 | [Sqrtx](https://leetcode.com/problems/sqrtx/) | [Python](./python/0069_Sqrtx.py) | Easy | Math, Binary Search |
+| 0070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Python](./python/0070_Climbing_Stairs.py) | Easy | Math, Dynamic Programming, Memorization |
 | 0078 | [Subsets](https://leetcode.com/problems/subsets/) | [Python](./python/0078_Subsets.py) | Medium | Array |
 | 0118 | [Pascals Triangle](https://leetcode.com/problems/pascals-triangle/) | [Python](./python/0118_Pascals_Triangle.py) | Easy | Array |
 | 0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Python](./python/0121_Best_Time_to_Buy_and_Sell_Stock.py) | Easy | Array, Dynamic Programming |
@@ -39,22 +42,28 @@
 | 0310 | [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/) | [Python](./python/0310_Minimum_Height_Trees.py) | Medium | Graph, BFS |
 | 0341 | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) | [Python](./python/0341_Flatten_Nested_List_Iterator.py) | Medium | Stack, Design |
 | 0387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Python](./python/0387_First_Unique_Character_in_a_String.py) | Easy | String, Hash Table |
+| 0412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Python](./python/0412_Fizz_Buzz.py) | Easy | String, Math |
 | 0463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/) | [Python](./python/0463_Island_Perimeter.py) | Easy | Hash Table |
 | 0485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Python](./python/0485_Max_Consecutive_Ones.py) | Easy | Array |
 | 0509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [Python](./python/0509_Fibonacci_Number.py) | Easy | Array |
 | 0520 | [Detect Capital](https://leetcode.com/problems/detect-capital/) | [Python](./python/0520_Detect_Capital.py) | Easy | String |
+| 0561 | [Array Partition I](https://leetcode.com/problems/detect-capital/) | [Python](./python/0561_Array_Partition_I.py) | Easy | Array, Sorting, Greedy |
 | 0657 | [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) | [Python](./python/0657_Robot_Return_to_Origin.py) | Easy | String |
 | 0695. | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | [Python](./python/0695._Max_Area_of_Island.py) | Medium | Array, DFS |
+| 0705 | [Design HashSet](https://leetcode.com/problems/design-hashset/) | [Python](./python/0705_Design_HashSet.py) | Easy | Hash Table, Linked List, Array |
 | 0709 | [To Lower Case](https://leetcode.com/problems/to-lower-case/) | [Python](./python/0709_To_Lower_Case.py) | Easy | String |
 | 0728 | [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/) | [Python](./python/0728_Self_Dividing_Numbers.py) | Easy | Math |
 | 0766 | [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/) | [Python](./python/0766_Toeplitz_Matrix.py) | Easy | Array |
+| 0771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [Python](./python/0771_Jewels_and_Stones.py) | Easy | Hash Table, String |
 | 0812 | [Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/submissions/) | [Python](./python/0812_Largest_Triangle_Area.py) | Easy | Math |
 | 0832 | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/) | [Python](./python/0832_Flipping_an_Image.py) | Easy | Array |
 | 0849 | [Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/) | [Python](./python/0849_Maximize_Distance_to_Closest_Person.py) | Medium | Array |
 | 0867 | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) | [Python](./python/0867_Transpose_Matrix.py) | Easy | Array |
 | 0868 | [Binary Gap](https://leetcode.com/problems/binary-gap/) | [Python](./python/0868_Binary_Gap.py) | Easy | Math |
+| 0908 | [Smallest Range I](https://leetcode.com/problems/smallest-range-i/) | [Python](./python/0908_Smallest_Range_I.py) | Easy | Array, Math |
 | 0917 | [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/) | [Python](./python/0917_Reverse_Only_Letters.py) | Easy | String |
 | 0922 | [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/) | [Python](./python/0922_Sort_Array_By_Parity_II.py) | Easy | Array, Sort |
+| 0942 | [DI String Match](https://leetcode.com/problems/di-string-match/) | [Python](./python/0942_DI_String_Match.py) | Easy | Array, Math, String, Two Pointers |
 | 0977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Python](./python/0977_Squares_of_a_Sorted_Array.py) | Easy | Array |
 | 0985 | [Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/) | [Python](./python/0985_Sum_of_Even_Numbers_After_Queries.py) | Easy | Array |
 | 1025 | [Divisor Game](https://leetcode.com/problems/divisor-game/) | [Python](./python/1025_Divisor_Game.py) | Easy | String |
@@ -63,6 +72,7 @@
 | 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [Python](./python/1108_Defanging_an_IP_Address.py) | Easy | String |
 | 1122 | [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/) | [Python](./python/1122_Relative_Sort_Array.py) | Easy | Array, Sort |
 | 1160 | [Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/) | [Python](./python/1160_Find_Words_That_Can_Be_Formed_by_Characters.py) | Easy | Array, Hash Table |
+| 1185 | [Day of the Week](https://leetcode.com/problems/day-of-the-week/) | [Python](./python/1185_Day_of_the_Week.py) | Easy | Math |
 | 1189 | [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/) | [Python](./python/1189_Maximum_Number_of_Balloons.py) | Easy | String, Hash Table |
 | 1200 | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/) | [Python](./python/1200_Minimum_Absolute_Difference.py) | Easy | Array |
 | 1217 | [Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/) | [Python](./python/1217_Minimum_Cost_to_Move_Chips_to_The_Same_Position.py) | Easy | Array, Math, Greedy |
@@ -82,6 +92,7 @@
 | 1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | [Python](./python/1342_Number_of_Steps_to_Reduce_a_Number_to_Zero.py) | Easy | Bit Manipulation |
 | 1351 | [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | [Python](./python/1351_Count_Negative_Numbers_in_a_Sorted_Matrix.py) | Easy | Array |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [Python](./python/1365_How_Many_Numbers_Are_Smaller_Than_the_Current_Number.py) | Easy | Array, Hash Table |
+| 1370 | [Increasing Decreasing String](https://leetcode.com/problems/increasing-decreasing-string/) | [Python](./python/1370_Increasing_Decreasing_String.py) | Easy | String, Hash Table |
 | 1374 | [Generate a String With Characters That Have Odd Counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/) | [Python](./python/1374_Generate_a_String_With_Characters_That_Have_Odd_Counts.py) | Easy | String |
 | 1380 | [Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/) | [Python](./python/1380_Lucky_Numbers_in_a_Matrix.py) | Easy | Array |
 | 1385 | [Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/) | [Python](./python/1385_Find_the_Distance_Value_Between_Two_Arrays.py) | Easy | Array |
@@ -91,6 +102,7 @@
 | 1408 | [String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array/) | [Python](./python/1408_String_Matching_in_an_Array.py) | Easy | String |
 | 1413 | [Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/) | [Python](./python/1413_Minimum_Value_to_Get_Positive_Step_by_Step_Sum.py) | Easy | Array |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | [Python](./python/1431_Kids_With_the_Greatest_Number_of_Candies.py) | Easy | Array |
+| 1436 | [Destination City](https://leetcode.com/problems/destination-city/) | [Python](./python/1436_Destination_City.py) | Easy | Hash Table, String |
 | 1446 | [Consecutive Characters](https://leetcode.com/problems/consecutive-characters/) | [Python](./python/1446_Consecutive_Characters.py) | Easy | String |
 | 1450 | [Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/) | [Python](./python/1450_Number_of_Students_Doing_Homework_at_a_Given_Time.py) | Easy | Array |
 | 1455 | [Check If a Word Occurs As a Prefix of Any Word in a Sentence](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | [Python](./python/1455_Check_If_a_Word_Occurs_As_a_Prefix_of_Any_Word_in_a_Sentence.py) | Easy | String |
@@ -107,5 +119,9 @@
 | 1588 | [Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/) | [Python](./python/1588_Sum_of_All_Odd_Length_Subarrays.py) | Easy | Array |
 | 1652 | [Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/) | [Python](./python/1652_Defuse_the_Bomb.py) | Easy | Array |
 | 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | [Python](./python/1672_Richest_Customer_Wealth.py) | Easy | Array |
+| 1684 | [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/) | [Python](./python/1684_Count_the_Number_of_Consistent_Strings.py) | Easy | Array, Hash Table, String, Bit Manipulation |
+| 1688 | [Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/) | [Python](./python/1688_Count_of_Matches_in_Tournament.py) | Easy | Math |
 | 1732 | [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | [Python](./python/1732_Find_the_Highest_Altitude.py) | Easy | Array |
+| 1742 | [Maximum Number of Balls in a Box](https://leetcode.com/problems/maximum-number-of-balls-in-a-box/) | [Python](./python/1742_Maximum_Number_of_Balls_in_a_Box.py) | Easy | Math, HashTable |
 | 1773 | [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/) | [Python](./python/1773_Count_Items_Matching_a_Rule.py) | Easy | Array |
+| 1832 | [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/) | [Python](./python/1832_Check_if_the_Sentence_Is_Pangram.py) | Easy | Hash Table, String |

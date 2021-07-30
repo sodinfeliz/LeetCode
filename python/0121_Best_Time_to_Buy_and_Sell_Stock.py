@@ -1,7 +1,7 @@
 """
 Question Link: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 Difficulty: Easy
-Related Topics: Array, Dynamic Programming
+Related Topics: Array, DP
 Solved by 11.02.2020 
 Runtime: 68(ms), Memory Usage: 15(MB)
 """

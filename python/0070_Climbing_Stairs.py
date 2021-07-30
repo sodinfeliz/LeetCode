@@ -1,7 +1,7 @@
 """
 Question Link: https://leetcode.com/problems/climbing-stairs/
 Difficulty: Easy
-Related Topics: Math, Dynamic Programming, Memorization
+Related Topics: Math, DP
 Solved by 07.22.2021
 Runtime: 28(ms), Memory Usage: 14.2(MB)
 """

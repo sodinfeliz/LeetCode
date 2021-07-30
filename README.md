@@ -23,10 +23,11 @@
 | 0066 | [Plus One](https://leetcode.com/problems/plus-one/) | [Python](./python/0066_Plus_One.py) | Easy | Array |
 | 0067 | [Add Binary](https://leetcode.com/problems/add-binary/) | [Python](./python/0067_Add_Binary.py) | Easy | Math, String, Bit Manipulation |
 | 0069 | [Sqrtx](https://leetcode.com/problems/sqrtx/) | [Python](./python/0069_Sqrtx.py) | Easy | Math, Binary Search |
-| 0070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Python](./python/0070_Climbing_Stairs.py) | Easy | Math, Dynamic Programming, Memorization |
+| 0070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Python](./python/0070_Climbing_Stairs.py) | Easy | Math, DP |
 | 0078 | [Subsets](https://leetcode.com/problems/subsets/) | [Python](./python/0078_Subsets.py) | Medium | Array |
 | 0118 | [Pascals Triangle](https://leetcode.com/problems/pascals-triangle/) | [Python](./python/0118_Pascals_Triangle.py) | Easy | Array |
-| 0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Python](./python/0121_Best_Time_to_Buy_and_Sell_Stock.py) | Easy | Array, Dynamic Programming |
+| 0119 | [Pascals Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [Python](./python/0119_Pascals_Triangle_II.py) | Easy | Array, DP |
+| 0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Python](./python/0121_Best_Time_to_Buy_and_Sell_Stock.py) | Easy | Array, DP |
 | 0122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Python](./python/0122_Best_Time_to_Buy_and_Sell_Stock_II.py) | Easy | Array, Greedy |
 | 0136 | [Single Number](https://leetcode.com/problems/single-number/) | [Python](./python/0136_Single_Number.py) | Easy | Hash Table, Bit Manipulation  |
 | 0142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [Python](./python/0142_Linked_List_Cycle_II.py) | Medium | Linked List, Two Pointers  |
@@ -40,19 +41,23 @@
 | 0268 | [Missing Number](https://leetcode.com/problems/missing-number/) | [Python](./python/0268_Missing_Number.py) | Easy | Math |
 | 0283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Python](./python/0283_Move_Zeroes.py) | Easy | Array |
 | 0310 | [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/) | [Python](./python/0310_Minimum_Height_Trees.py) | Medium | Graph, BFS |
+| 0338 | [Counting Bits](https://leetcode.com/problems/counting-bits/) | [Python](./python/0338_Counting_Bits.py) | Easy | DP, Bit Manipulation |
 | 0341 | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) | [Python](./python/0341_Flatten_Nested_List_Iterator.py) | Medium | Stack, Design |
 | 0387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Python](./python/0387_First_Unique_Character_in_a_String.py) | Easy | String, Hash Table |
+| 0392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [Python](./python/0392_Is_Subsequence.py) | Easy | Two Pointers, String, DP |
 | 0412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Python](./python/0412_Fizz_Buzz.py) | Easy | String, Math |
 | 0463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/) | [Python](./python/0463_Island_Perimeter.py) | Easy | Hash Table |
 | 0485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Python](./python/0485_Max_Consecutive_Ones.py) | Easy | Array |
 | 0509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [Python](./python/0509_Fibonacci_Number.py) | Easy | Array |
 | 0520 | [Detect Capital](https://leetcode.com/problems/detect-capital/) | [Python](./python/0520_Detect_Capital.py) | Easy | String |
+| 0542 | [01 Matrix](https://leetcode.com/problems/01-matrix/) | [Python](./python/0542_01_Matrix.py) | Medium | Array, DP, DFS |
 | 0561 | [Array Partition I](https://leetcode.com/problems/detect-capital/) | [Python](./python/0561_Array_Partition_I.py) | Easy | Array, Sorting, Greedy |
 | 0657 | [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) | [Python](./python/0657_Robot_Return_to_Origin.py) | Easy | String |
 | 0695. | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | [Python](./python/0695._Max_Area_of_Island.py) | Medium | Array, DFS |
 | 0705 | [Design HashSet](https://leetcode.com/problems/design-hashset/) | [Python](./python/0705_Design_HashSet.py) | Easy | Hash Table, Linked List, Array |
 | 0709 | [To Lower Case](https://leetcode.com/problems/to-lower-case/) | [Python](./python/0709_To_Lower_Case.py) | Easy | String |
 | 0728 | [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/) | [Python](./python/0728_Self_Dividing_Numbers.py) | Easy | Math |
+| 0746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [Python](./python/0746_Min_Cost_Climbing_Stairs.py) | Easy | Array, DP |
 | 0766 | [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/) | [Python](./python/0766_Toeplitz_Matrix.py) | Easy | Array |
 | 0771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [Python](./python/0771_Jewels_and_Stones.py) | Easy | Hash Table, String |
 | 0812 | [Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/submissions/) | [Python](./python/0812_Largest_Triangle_Area.py) | Easy | Math |
@@ -63,6 +68,7 @@
 | 0908 | [Smallest Range I](https://leetcode.com/problems/smallest-range-i/) | [Python](./python/0908_Smallest_Range_I.py) | Easy | Array, Math |
 | 0917 | [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/) | [Python](./python/0917_Reverse_Only_Letters.py) | Easy | String |
 | 0922 | [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/) | [Python](./python/0922_Sort_Array_By_Parity_II.py) | Easy | Array, Sort |
+| 0932 | [Beautiful Array](https://leetcode.com/problems/beautiful-array/) | [Python](./python/0932_Beautiful_Array.py) | Medium | Array, Math, Divide and Conquer |
 | 0942 | [DI String Match](https://leetcode.com/problems/di-string-match/) | [Python](./python/0942_DI_String_Match.py) | Easy | Array, Math, String, Two Pointers |
 | 0977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Python](./python/0977_Squares_of_a_Sorted_Array.py) | Easy | Array |
 | 0985 | [Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/) | [Python](./python/0985_Sum_of_Even_Numbers_After_Queries.py) | Easy | Array |
@@ -71,6 +77,7 @@
 | 1103 | [Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people/) | [Python](./python/1103_Distribute_Candies_to_People.py) | Easy | Math |
 | 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [Python](./python/1108_Defanging_an_IP_Address.py) | Easy | String |
 | 1122 | [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/) | [Python](./python/1122_Relative_Sort_Array.py) | Easy | Array, Sort |
+| 1137 | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) | [Python](./python/1137_N-th_Tribonacci_Number.py) | Easy | Math, DP |
 | 1160 | [Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/) | [Python](./python/1160_Find_Words_That_Can_Be_Formed_by_Characters.py) | Easy | Array, Hash Table |
 | 1185 | [Day of the Week](https://leetcode.com/problems/day-of-the-week/) | [Python](./python/1185_Day_of_the_Week.py) | Easy | Math |
 | 1189 | [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/) | [Python](./python/1189_Maximum_Number_of_Balloons.py) | Easy | String, Hash Table |
@@ -117,6 +124,7 @@
 | 1550 | [Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/) | [Python](./python/1550_Three_Consecutive_Odds.py) | Easy | Array |
 | 1572 | [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/) | [Python](./python/1572_Matrix_Diagonal_Sum.py) | Easy | Array |
 | 1588 | [Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/) | [Python](./python/1588_Sum_of_All_Odd_Length_Subarrays.py) | Easy | Array |
+| 1646 | [Get Maximum in Generated Array](https://leetcode.com/problems/get-maximum-in-generated-array/) | [Python](./python/1646_Get_Maximum_in_Generated_Array.py) | Easy | Array, DP |
 | 1652 | [Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/) | [Python](./python/1652_Defuse_the_Bomb.py) | Easy | Array |
 | 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | [Python](./python/1672_Richest_Customer_Wealth.py) | Easy | Array |
 | 1684 | [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/) | [Python](./python/1684_Count_the_Number_of_Consistent_Strings.py) | Easy | Array, Hash Table, String, Bit Manipulation |

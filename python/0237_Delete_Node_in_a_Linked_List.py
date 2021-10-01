@@ -1,5 +1,5 @@
 """
-Question Link: https://leetcode.com/problems/summary-ranges/
+Question Link: https://leetcode.com/problems/delete-node-in-a-linked-list/
 Difficulty: Easy
 Related Topics: Linked List
 Solved by 08.13.2021

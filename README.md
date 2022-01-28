@@ -10,11 +10,14 @@
 | 0009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](./python/0009_Palindrome_Number.py) | Easy | Math |
 | 0013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Python](./python/0013_Roman_to_Integer.py) | Easy | String |
 | 0014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Python](./python/0014_Longest_Common_Prefix.py) | Easy | String |
+| 0019 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Python](./python/0019_Remove_Nth_Node_From_End_of_List.py) | Medium | Linked Lisr, Two Pointers |
+| 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python](./python/0020_Valid_Parentheses.py) | Easy | String, Stack |
 | 0021 | [merge two sorted lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Python](./python/0021_merge_two_sorted_lists.py) | Easy | Linked List, Recursion |
 | 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Python](./python/0026_Remove_Duplicates_from_Sorted_Array.py) | Easy | Array, Two Pointers |
 | 0027 | [Remove Element](https://leetcode.com/problems/remove-element/) | [Python](./python/0027_Remove_Element.py) | Easy | Array, Two Pointers |
 | 0029 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | [Python](./python/0029_Divide_Two_Integers.py) | Medium | Math, Binary Search |
 | 0034 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Python](./python/0034_Find_First_and_Last_Position_of_Element_in_Sorted_Array.py) | Medium | Array, Binary Search |
+| 0035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Python](./python/0035_Search_Insert_Position.py) | Easy | Array, Binary Search |
 | 0038 | [Count and Say](https://leetcode.com/problems/count-and-say/) | [Python](./python/0038_Count_and_Say.py) | Easy | String |
 | 0048 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [Python](./python/0048_Rotate_Image.py) | Medium | Array |
 | 0053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Python](./python/0053_Maximum_Subarray.py) | Easy | Array, D&C, DP |
@@ -31,6 +34,9 @@
 | 0083 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Python](./python/0083_Remove_Duplicates_from_Sorted_List.py) | Easy | Linked List |
 | 0084 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [Python](./python/0084_Largest_Rectangle_in_Histogram.py) | Hard | Array, Stack |
 | 0090 | [Subsets II](https://leetcode.com/problems/subsets-ii/) | [Python](./python/0090_Subsets_II.py) | Medium | Array, Backtracking, Bit Manipulation |
+| 0094 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Python](./python/0094_Binary_Tree_Inorder_Traversal.py) | Easy | Stack, DFS, Binary Tree |
+| 0102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Python](./python/0102_Binary_Tree Level_Order_Traversal.py) | Medium | BFS, Binary Tree |
+| 0104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Python](./python/0104_Maximum_Depth_of_Binary_Tree.py) | Easy | DFS, BFS, Binary Tree |
 | 0118 | [Pascals Triangle](https://leetcode.com/problems/pascals-triangle/) | [Python](./python/0118_Pascals_Triangle.py) | Easy | Array |
 | 0119 | [Pascals Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [Python](./python/0119_Pascals_Triangle_II.py) | Easy | Array, DP |
 | 0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Python](./python/0121_Best_Time_to_Buy_and_Sell_Stock.py) | Easy | Array, DP |
@@ -40,10 +46,15 @@
 | 0139 | [Word Break](https://leetcode.com/problems/word-break/) | [Python](./python/0139_Word_Break.py) | Medium | Hash Table, String, DP, Memoization, Trie  |
 | 0141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Python](./python/0141_Linked_List_Cycle.py) | Easy | Hash Table, Linked List, Two Pointers |
 | 0142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [Python](./python/0142_Linked_List_Cycle_II.py) | Medium | Linked List, Two Pointers  |
+| 0144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Python](./python/0144_Binary_Tree_Preorder_Traversal.py) | Easy | Stack, DFS, Binary Tree |
+| 0145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Python](./python/0145_Binary_Tree_Postorder_Traversal.py) | Easy | Stack, DFS, Binary Tree |
 | 0147 | [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/) | [Python](./python/0147_Insertion_Sort_List.py) | Medium | Linked List, Sort |
+| 0150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Python](./python/0150_Evaluate_Reverse_Polish_Notation.py) | Medium | Array, Math, Stack |
+| 0155 | [Min Stack](https://leetcode.com/problems/min-stack/) | [Python](./python/0155_Min_Stack.py) | Easy | Stack, Design |
 | 0160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Python](./python/0160_Intersection_of_Two_Linked_Lists.py) | Easy | Hash Table, Linked List, Two Pointers |
 | 0167 | [Two Sum II Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Python](./python/0167_Two_Sum_II_Input_array_is_sorted.py) | Easy | Array, Binary Search, Two Pointers |
 | 0169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [Python](./python/0169_Majority_Element.py) | Easy | Easy, D&C, Bit Manipulation |
+| 0189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [Python](./python/0189_Rotate_Array.py) | Medium | Array, Math, Two Pointers |
 | 0200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Python](./python/0200_Number_of_Islands.py) | Medium | DFS, BFS, Union Find |
 | 0202 | [Happy Number](https://leetcode.com/problems/happy-number/) | [Python](./python/0202_Happy_Number.py) | Medium | Math |
 | 0203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [Python](./python/0203_Remove_Linked_List_Elements.py) | Easy | Linked List |
@@ -54,6 +65,8 @@
 | 0237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Python](./python/0237_Delete_Node_in_a_Linked_List.py) | Easy | Linked List |
 | 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Python](./python/0242_Valid_Anagram.py) | Easy | Hash Table, Sorting, String |
 | 0268 | [Missing Number](https://leetcode.com/problems/missing-number/) | [Python](./python/0268_Missing_Number.py) | Easy | Math |
+| 0278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [Python](./python/0278_First_Bad_Version.py) | Easy | Binary Search |
+| 0279 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/) | [Python](./python/0279_Perfect_Squares.py) | Medium | Math, DP, BFS |
 | 0283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Python](./python/0283_Move_Zeroes.py) | Easy | Array |
 | 0310 | [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/) | [Python](./python/0310_Minimum_Height_Trees.py) | Medium | Graph, BFS |
 | 0328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [Python](./python/0328_Odd_Even_Linked_List.py) | Medium | Linked List |
@@ -75,17 +88,24 @@
 | 0485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Python](./python/0485_Max_Consecutive_Ones.py) | Easy | Array |
 | 0496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | [Python](./python/0496_Next_Greater_Element_I.py) | Easy | Array, Hash Table, Stack |
 | 0500 | [Keyboard Row](https://leetcode.com/problems/keyboard-row/) | [Python](./python/0500_Keyboard_Row.py) | Easy | Array, Hash Table, String |
+| 0504 | [Base 7](https://leetcode.com/problems/base-7/) | [Python](./python/0504_Base_7.py) | Easy | Math |
+| 0507 | [Perfect Number](https://leetcode.com/problems/perfect-number/) | [Python](./python/0507_Perfect_Number.py) | Easy | Math |
 | 0509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [Python](./python/0509_Fibonacci_Number.py) | Easy | Array |
 | 0520 | [Detect Capital](https://leetcode.com/problems/detect-capital/) | [Python](./python/0520_Detect_Capital.py) | Easy | String |
 | 0542 | [01 Matrix](https://leetcode.com/problems/01-matrix/) | [Python](./python/0542_01_Matrix.py) | Medium | Array, DP, DFS |
+| 0557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [Python](./python/0557_Reverse_Words_in_a_String_III.py) | Easy | Two Pointers, String |
 | 0561 | [Array Partition I](https://leetcode.com/problems/detect-capital/) | [Python](./python/0561_Array_Partition_I.py) | Easy | Array, Sorting, Greedy |
+| 0622 | [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) | [Python](./python/0622_Design_Circular_Queue.py) | Medium | Array, Linked List, Queue, Design |
 | 0657 | [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) | [Python](./python/0657_Robot_Return_to_Origin.py) | Easy | String |
 | 0695. | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | [Python](./python/0695._Max_Area_of_Island.py) | Medium | Array, DFS |
+| 0704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [Python](./python/0704_Binary_Search.py) | Easy | Array, Binary Search |
 | 0705 | [Design HashSet](https://leetcode.com/problems/design-hashset/) | [Python](./python/0705_Design_HashSet.py) | Easy | Hash Table, Linked List, Array |
 | 0709 | [To Lower Case](https://leetcode.com/problems/to-lower-case/) | [Python](./python/0709_To_Lower_Case.py) | Easy | String |
 | 0725 | [Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/) | [Python](./python/0725_Split_Linked_List_in_Parts.py) | Medium | Linked List |
 | 0728 | [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/) | [Python](./python/0728_Self_Dividing_Numbers.py) | Easy | Math |
+| 0739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | [Python](./python/0739_Daily_Temperatures.py) | Medium | Array, Stack |
 | 0746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [Python](./python/0746_Min_Cost_Climbing_Stairs.py) | Easy | Array, DP |
+| 0752 | [Open the Lock](https://leetcode.com/problems/open-the-lock/) | [Python](./python/0752_Open_the_Lock.py) | Medium | Array, Hash Table, BFS, String |
 | 0763 | [Partition Labels](https://leetcode.com/problems/partition-labels/) | [Python](./python/0763_Partition_Labels.py) | Medium | Hash Table, Two Pointers, String, Greedy |
 | 0766 | [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/) | [Python](./python/0766_Toeplitz_Matrix.py) | Easy | Array |
 | 0771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [Python](./python/0771_Jewels_and_Stones.py) | Easy | Hash Table, String |
@@ -110,11 +130,13 @@
 | 0932 | [Beautiful Array](https://leetcode.com/problems/beautiful-array/) | [Python](./python/0932_Beautiful_Array.py) | Medium | Array, Math, Divide and Conquer |
 | 0942 | [DI String Match](https://leetcode.com/problems/di-string-match/) | [Python](./python/0942_DI_String_Match.py) | Easy | Array, Math, String, Two Pointers |
 | 0953 | [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/) | [Python](./python/0953_Verifying_an_Alien_Dictionary.py) | Easy | Array, Hash Table, String |
+| 0961 | [N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | [Python](./python/0961_N-Repeated_Element_in_Size_2N_Array.py) | Easy | Array, Hash Table |
 | 0977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Python](./python/0977_Squares_of_a_Sorted_Array.py) | Easy | Array |
 | 0985 | [Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/) | [Python](./python/0985_Sum_of_Even_Numbers_After_Queries.py) | Easy | Array |
 | 1002 | [Find Common Characters](https://leetcode.com/problems/find-common-characters/) | [Python](./python/1002_Find_Common_Characters.py) | Easy | Array, Hash Table, String |
 | 1025 | [Divisor Game](https://leetcode.com/problems/divisor-game/) | [Python](./python/1025_Divisor_Game.py) | Easy | String |
 | 1026 | [Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/) | [Python](./python/1026_Maximum_Difference_Between_Node_and_Ancestor.py) | Medium | DFS, Tree |
+| 1037 | [Valid Boomerang](https://leetcode.com/problems/valid-boomerang/) | [Python](./python/1037_Valid_Boomerang.py) | Easy | Math, Geometry |
 | 1047 | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | [Python](./python/1047_Remove_All_Adjacent_Duplicates_In_String.py) | Easy | String, Stack |
 | 1103 | [Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people/) | [Python](./python/1103_Distribute_Candies_to_People.py) | Easy | Math |
 | 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [Python](./python/1108_Defanging_an_IP_Address.py) | Easy | String |
@@ -194,6 +216,8 @@
 | 1880 | [Check if Word Equals Summation of Two Words](https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/) | [Python](./python/1880_Check_if_Word_Equals_Summation_of_Two_Words.py) | Easy | String |
 | 1897 | [Redistribute Characters to Make All Strings Equal](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/) | [Python](./python/1897_Redistribute_Characters_to_Make_All_Strings_Equal.py) | Easy | Hash Table, String, Counting |
 | 1910 | [Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/) | [Python](./python/1910_Remove_All_Occurrences_of_a_Substring.py) | Medium | String |
+| 1920 | [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/) | [Python](./python/1920_Build_Array_from_Permutation.py) | Easy | Array, Simulation |
+| 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [Python](./python/1929_Concatenation_of_Array.py) | Easy | Array |
 | 1935 | [Maximum Number of Words You Can Type](https://leetcode.com/problems/maximum-number-of-words-you-can-type/) | [Python](./python/1935_Maximum_Number_of_Words_You_Can_Type.py) | Easy | Hash Table. String |
 | 1941 | [Check if All Characters Have Equal Number of Occurrences](https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/) | [Python](./python/1941_Check_if_All_Characters_Have_Equal_Number_of_Occurrences.py) | Easy | Hash Table, String |
 | 1957 | [Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string/) | [Python](./python/1957_Delete_Characters_to_Make_Fancy_String.py) | Easy | String |
